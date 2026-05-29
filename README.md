@@ -15,7 +15,7 @@ A modern, dark-themed login form with **floating labels** (CSS‑only) and optio
 - **Optional JavaScript** – simple demo validation that checks for empty fields.
 
 
-> No external dependencies – everything is inline in a single HTML file.
+
 
 ## 🔧 How to Run
 
